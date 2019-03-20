@@ -4,7 +4,7 @@ import sqlite3
 import random
 import logging
 
-TOKEN = '#########:##############################'
+TOKEN = '622528019:AAHfg61qSS4KV2cGBEw_YV2TqiBdLyAL0Ro'
 bot = telegram.Bot(TOKEN)
 
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
