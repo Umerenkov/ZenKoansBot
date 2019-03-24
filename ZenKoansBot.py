@@ -1,10 +1,10 @@
-﻿from telegram.ext import CommandHandler, Updater
+from telegram.ext import CommandHandler, Updater
 import telegram
 import sqlite3
 import random
 import logging
 
-TOKEN = '622528019:AAHfg61qSS4KV2cGBEw_YV2TqiBdLyAL0Ro'
+TOKEN = '#########:###################################'
 bot = telegram.Bot(TOKEN)
 
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
