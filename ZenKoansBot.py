@@ -1,3 +1,4 @@
+#pokakal
 from telegram.ext import CommandHandler, Updater
 import telegram
 import sqlite3
